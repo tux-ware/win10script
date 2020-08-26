@@ -13,6 +13,7 @@
 #	Addition: One command to rule them all, One command to find it, and One command to Run it! 
 #
 #     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJ8R4')"
+#     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/tux-ware/win10script/master/ultra-ltsc.ps1')"
 #
 #	Chris Titus Additions:
 #
