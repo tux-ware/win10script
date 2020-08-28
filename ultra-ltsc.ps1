@@ -178,11 +178,11 @@ $tweaks = @(
 
 	### Unpinning ###
 	"UnpinStartMenuTiles",
-	# "UnpinTaskbarIcons"
+	# "UnpinTaskbarIcons", 
 
 	### Auxiliary Functions ###
   "WaitForKey", 
-	"Restart", 
+	"Restart"
 )
 
 #########
