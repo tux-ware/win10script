@@ -181,7 +181,7 @@ $tweaks = @(
 	# "UnpinTaskbarIcons", 
 
 	### Auxiliary Functions ###
-  "WaitForKey", 
+        "WaitForKey", 
 	"Restart"
 )
 
